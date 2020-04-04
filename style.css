@@ -1,0 +1,50 @@
+.navbar {
+  background-color: #3CB371;
+}
+
+.parallax {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.parallax h1 {
+  color: lightgreen;
+  font-weight: bold;
+  font-size: 72px;
+}
+
+.navbar-nav.navbar-center {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translatex(-50%);
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.logoImage {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  transform: translatex(-50%);
+
+}
+
+footer {
+  color: white;
+  background-color: #3CB371;
+}
+
+.whiteLink a {
+  color: white;
+}
+
+footer div .col {
+  padding: 10px;
+}
