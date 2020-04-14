@@ -1,0 +1,13 @@
+.my-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  flex-direction: column;
+}
+
+.galleryImages {
+  padding: 10px 20px 0px 20px;
+  text-align: center;
+}

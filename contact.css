@@ -1,0 +1,29 @@
+.contactForm {
+  margin: 25px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.contactInfo {
+  margin: 10px 20px 0px 20px;
+}
+
+.my-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  flex-direction: column;
+}
+
+.messenger {
+  margin: 20px;
+}
+
+.my-col a {
+  color: black;
+}
