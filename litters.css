@@ -1,0 +1,29 @@
+.my-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  flex-direction: column;
+}
+
+.litterImages {
+  padding: 10px 20px 0px 20px;
+  text-align: center;
+}
+
+.litters {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.quote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  margin: 20px 25px 25px 25px;
+  padding: 30px;
+  background-color: #3CB371;
+  flex-direction: column;
+}
